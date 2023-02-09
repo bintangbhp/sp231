@@ -1,0 +1,11 @@
+version:     "0001-9-Feb-2023"
+copyright:   "2023"
+author:      "Bintang Hari Pratama"
+title:       "SP231: System Programming 2023-1"
+githublink:  "https://github.com/bintangbhp/sp231"
+myloglink:   "/TXT/mylog.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
