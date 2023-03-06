@@ -1,4 +1,4 @@
-# Log Format
+#Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 20 L00 General, etc.
@@ -22,3 +22,8 @@ ZCZC W03 15 L05 Quiz related
 ZCZC W03 100 L02 Class meetings related
 ZCZC W03 50 L02 ZOOM meetings related
 ZCZC W03 10 L44 TXT/myscript.sh related
+ZCZC W04 100 L09 Weekly Assignment
+ZCZC W04 15 L05 Quiz related
+ZCZC W04 100 L02 Class meetings related
+ZCZC W04 50 L02 ZOOM meetings related
+ZCZC W04 10 L44 TXT/myscript.sh related
