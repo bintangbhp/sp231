@@ -42,3 +42,8 @@ ZCZC W06 60 L05 Quiz related
 ZCZC W06 100 L02 Class meetings related
 ZCZC W06 50 L02 ZOOM meetings related
 ZCZC W06 10 L44 TXT/myscript.sh related
+ZCZC W07 100 L09 Weekly Assignment
+ZCZC W07 15 L05 Quiz related
+ZCZC W07 100 L02 Class meetings related
+ZCZC W07 50 L02 ZOOM meetings related
+ZCZC W07 10 L44 TXT/myscript.sh related
