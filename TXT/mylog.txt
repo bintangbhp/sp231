@@ -47,3 +47,13 @@ ZCZC W07 15 L05 Quiz related
 ZCZC W07 100 L02 Class meetings related
 ZCZC W07 50 L02 ZOOM meetings related
 ZCZC W07 10 L44 TXT/myscript.sh related
+ZCZC W08 100 L02 Attend offline class
+ZCZC W08 50 L02 Attend zoom meeting
+ZCZC W08 5 L11 Assignment #01
+ZCZC W08 20 L12 Assignment #02
+ZCZC W08 80 L62 Backup Virtual Debian Guest Before Compiling Latest Linux Kernel
+ZCZC W08 60 L14 Assignment #04
+ZCZC W08 40 L05 Do pop quiz
+ZCZC W08 5 L40 Updating TXT
+ZCZC W08 5 L03 Push weekly assignment
+ZCZC W08 12 L62 Backup Virtual Debian Guest After Weekly Assignment Done
